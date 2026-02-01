@@ -8,6 +8,35 @@
   
   > If code in a slide looks like this, you should be running it to generate results.
 
+  *** for each one of the files under participation, I summarize the key activities completed under each class, here, I provided my notes, reflections, and notes for each session ***
+
+    ## Slide 1: Course Introduction
+    - Learn reproducibility and version control, while taking advanateg of script-based vis, e.g., r and python
+
+    ## Slide 2: Getting Started with Matplotlib
+    - Created basic scatter and line plots using `matplotlib`, including learning how to use the most basic functions, such as plt.subplots() and ax.plot(), ax.scatter(), plt.savefig()` for reproducibility. Also learn to use different types of plot, e.g., line vs. bar plot for different purposes and delivering different meanings. 
+
+    ## Slide 3: Reproducible Visualizations
+    Learned why reproducibility is critical for transparency and collaboration. Learning to use set.seed when necessary to control for the randomization of the data to improve reproducibility. 
+
+    ## Slide 4: Choosing the Right Visualization
+    Compared bar charts, line charts, and scatter plots to learn that chart choice depends on data type and research question. On the opposite, due to inappropriate choice of plot, misleading visualizations can lead to misunderstanding. s
+
+    ## Slide 5: Customizing Plots
+    Modified titles, axis labels, marker styles, and figure sizes; removed unnecessary gridlines to reduce visual clutter.
+
+    ## Slide 6: Subplots
+    Created multiple plots in a single figure using subplots.
+
+    ## Slide 7: Accessible Data Visualization
+    Discussed accessibility is essential for equitable data communication.
+
+    ## Slide 8: Data Visualization as Advocacy
+    Explored how visualizations can influence public understanding.
+
+    ## Slide 9: Beyond Matplotlib
+    Reviewed alternative tools and libraries for visualization.
+
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
 
