@@ -10,24 +10,31 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+    1) Good example: Child and Family Well-Being Agency Database (CFWBAgencyMap)
+    Source: https://public.tableau.com/app/profile/healthdataviz/viz/ChildandFamilyWell-BeingAgencyDatabase/CFWBAgencyMap
 
+    This visualization is an effective example of good data visualization because it follows core principles of accuracy, perceptual clarity, and contextual usefulness.
 
+    First, the chart choice is appropriate. A geographic map is compatible with because the primary goal is to show the spatial distribution of child and family well-being agencies. The visualization does not distort the data through truncated axes or inappropriate geometry. Second, the visualization is easy to read. The layout and the color scheme allow users to quickly identify patterns across regions. The color scale is intuitive and ordered. The design avoids unnecessary gridlines or distracting elements. Third, the visualization provides strong context and usability. Titles and labels clearly describe what the map represents, and interactive filters allow users to explore subsets of the data without overwhelming the initial view.
 
+    2) Bad exmaple: The Golden Honmoon - a Tableau Public dashboard
+    Source: https://public.tableau.com/app/profile/louisyu/viz/TheGoldenHonmoon/Honmoon
 
-
-
+    The design appears to prioritize dashboard-ness over clarity: a lack of clear question, unclear axes and elements, and chart choices that do not match the task (comparison vs. trend vs. distribution). The narrative is misleading and confusing overall. The layout seem weak and confusing as well. Without strong grouping, direct labeling, and consistent color schemes, the viewer has to work hard to figure out the point of this figure. A useful visualization should answer a question. The title - The Golden Honmoon -  does not explain what is being measured, why it matters, or what takeaway the viewer should have. Missing or unclear titles, legends, sources, and framing make the dashboard feel like a collection of visuals rather than an argument or story.
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
 
+    1) Child and Family Well-Being Agency Database (CFWBAgencyMap)
+	1.	A short summary annotation highlighting key geographic patterns could help users understand the main message.
+	2.	Adding accessibility features, e.g., higher-contrast color options, would improve usability for low-vision users.
 
 
-
-
-
+    2) The Golden Honmoon - a Tableau Public dashboard
+    1) Clarify the purpose and audience by including clear titles, direct labels, and a short caption summarizing the main insight. 
+    2) Replace unnecssary decorative effects with clear, consistent  styles (e.g., bar or line charts) that align with the data type and question.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
@@ -59,9 +66,9 @@
     * Open a private window in your browser. Copy and paste the link to your pull request into the address bar. Make sure you can see your pull request properly. This helps the technical facilitator and learning support staff review your submission easily.
 
 Checklist:
-- [ ] Create a branch called `assignment-2`.
-- [ ] Ensure that the repository is public.
-- [ ] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
+- [X] Create a branch called `assignment-2`.
+- [X] Ensure that the repository is public.
+- [X] Review [the PR description guidelines](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md#guidelines-for-pull-request-descriptions) and adhere to them.
 - [ ] Verify that the link is accessible in a private browser window.
 
 If you encounter any difficulties or have questions, please don't hesitate to reach out to our team via our Slack. Our Technical Facilitators and Learning Support staff are here to help you navigate any challenges.
